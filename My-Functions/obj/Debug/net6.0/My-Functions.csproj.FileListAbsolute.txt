@@ -1,0 +1,15 @@
+F:\CS30\My-Functions\bin\Debug\net6.0\My-Functions.exe
+F:\CS30\My-Functions\bin\Debug\net6.0\My-Functions.deps.json
+F:\CS30\My-Functions\bin\Debug\net6.0\My-Functions.runtimeconfig.json
+F:\CS30\My-Functions\bin\Debug\net6.0\My-Functions.dll
+F:\CS30\My-Functions\bin\Debug\net6.0\My-Functions.pdb
+F:\CS30\My-Functions\obj\Debug\net6.0\My-Functions.csproj.AssemblyReference.cache
+F:\CS30\My-Functions\obj\Debug\net6.0\My-Functions.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\My-Functions\obj\Debug\net6.0\My-Functions.AssemblyInfoInputs.cache
+F:\CS30\My-Functions\obj\Debug\net6.0\My-Functions.AssemblyInfo.cs
+F:\CS30\My-Functions\obj\Debug\net6.0\My-Functions.csproj.CoreCompileInputs.cache
+F:\CS30\My-Functions\obj\Debug\net6.0\My-Functions.dll
+F:\CS30\My-Functions\obj\Debug\net6.0\refint\My-Functions.dll
+F:\CS30\My-Functions\obj\Debug\net6.0\My-Functions.pdb
+F:\CS30\My-Functions\obj\Debug\net6.0\My-Functions.genruntimeconfig.cache
+F:\CS30\My-Functions\obj\Debug\net6.0\ref\My-Functions.dll
